@@ -1,3 +1,3 @@
 .github/
 .github/workflows/
-.github/workflows/assign-pr.yaml
+.github/workflows/assign-pr.yml
